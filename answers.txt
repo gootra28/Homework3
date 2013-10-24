@@ -1,6 +1,5 @@
-Name: ...
-Evergreen Login: ...
-Computer Science Foundations
+Name: Travis Goodroad 
+Evergreen Login: Gootra28 Computer Science Foundations
 Programming as a Way of Life
 Fall 2013
 Homework 3 
